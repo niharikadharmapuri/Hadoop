@@ -1,0 +1,3 @@
+yum install python-pip
+pip install mrjob==0.5.11
+yum install nano
